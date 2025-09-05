@@ -1,0 +1,9 @@
+tensorflow
+tinyml
+numpy
+pandas
+matplotlib
+scikit-learn
+librosa
+jupyter
+pytest

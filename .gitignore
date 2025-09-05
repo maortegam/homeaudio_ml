@@ -1,0 +1,14 @@
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+/homeaudio/
+
+# Jupyter Notebook-specific files
+.ipynb_checkpoints/
+
+# Other files
+.DS_Store

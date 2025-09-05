@@ -1,0 +1,21 @@
+name: homeaudio
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - tensorflow
+  - tinyml
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - librosa
+  - soundfile
+  - opencv
+  - requests
+  - pytest
+  - pip:
+      - tensorflow-model-optimization
+      - pydub
