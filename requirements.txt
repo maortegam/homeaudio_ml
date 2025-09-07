@@ -7,3 +7,4 @@ scikit-learn
 librosa
 jupyter
 pytest
+soundata
